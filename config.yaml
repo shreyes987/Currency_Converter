@@ -1,0 +1,7 @@
+appName: shreya-api
+convertPriceURL: "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml"
+endpoint: "/convert"
+xmlRoot1: "{http://www.gesmes.org/xml/2002-08-01}Envelope"
+xmlRoot2: "{http://www.ecb.int/vocabulary/2002-08-01/eurofxref}Cube"
+xmlRoot3: "{http://www.ecb.int/vocabulary/2002-08-01/eurofxref}Cube"
+xmlRoot4: "{http://www.ecb.int/vocabulary/2002-08-01/eurofxref}Cube"
